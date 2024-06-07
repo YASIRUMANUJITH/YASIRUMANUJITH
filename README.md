@@ -1,7 +1,7 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋,I'm Yasiru Manujith</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YASIRUMANUJITH&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
@@ -67,4 +67,4 @@
 ---
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<p align="center"><a href="https://https://buymeacoffee.com/yasirumanujith"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
