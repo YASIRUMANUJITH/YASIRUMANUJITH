@@ -3,24 +3,24 @@
 # 👋 Hi, I'm Yasiru Manujith!
 
 
-👩🏻‍💻 I Grew up in Homagama Techno City, at the heart of Sri Lanka's science & technology ecosystem<br/>
-📊 Data Science Undergraduate at **University of Plymouth**<br/>
-💹 Exploring **Data Science, FinTech, Financial Markets & Risk Analytics**<br/>
-🎯 **Domain Expertise:** **FinTech & Financial Policy**<br/>
-🏠 Working on **Real Estate Analytics, Financial Analytics & Predictive Modeling**<br/>
-🚀 Contributing to **AI, Deep Tech, Startups & Innovation Ecosystems**<br/>
+👩🏻‍💻 ● I Grew up in Homagama Techno City, at the heart of Sri Lanka's science & technology ecosystem<br/>
+📊 ● Data Science Undergraduate at **University of Plymouth**<br/>
+💹 ● Applying Data Science, Behavioral Finance & Decision Science to Global Capital Markets, Real Estate & Investment Analytics<br/>
+🎯 ● Domain Expertise: **FinTech & Financial Policy**<br/>
+🏠 ● Working on **Real Estate Analytics, Financial Analytics & Predictive Modeling**<br/>
+🚀 ● Contributing to **AI, Deep Tech, Startups & Innovation Ecosystems**<br/>
 
 
-# 🛠️ What I Build
+# 👨🏻‍💻</> What I Build
 
-📊 **Data Science & Machine Learning** — building data-driven models and financial intelligence systems<br/>
-💳 **Credit Risk & Fraud Detection** — applying domain knowledge in financial risk, credit assessment and financial crime analytics<br/>
-🏠 **Real Estate & Market Analytics** — analyzing property markets, valuation, pricing and investment opportunities<br/>
-📈 **Financial & Investment Analytics** — applying data-driven approaches to capital markets, portfolio analysis and investment decision-making<br/>
-🛡️ **Financial Risk Intelligence** — exploring market, credit and emerging financial risks through analytical and predictive models<br/>
-💰 **Decision Science & Capital Allocation** — applying decision science to determine how capital should be allocated, which opportunities to pursue, and how to make better decisions under uncertainty
+● **Data Science & Machine Learning** - building data-driven models and financial intelligence systems<br/>
+● **Credit Risk & Fraud Detection** - applying domain knowledge in financial risk, credit assessment and financial crime analytics<br/>
+● **Real Estate & Market Analytics** - analyzing property markets, valuation, pricing and investment opportunities<br/>
+● **Financial & Investment Analytics** - applying data-driven approaches to capital markets, portfolio analysis and investment decision-making<br/>
+● **Financial Risk Intelligence** - exploring market, credit and emerging financial risks through analytical and predictive models<br/>
+● **Decision Science & Capital Allocation** - applying decision science to determine how capital should be allocated, which opportunities to pursue, and how to make better decisions under uncertainty
 
-# 💻 Tech Stack
+# 💻 Tech Stack 
 
 
 **Data Science & Scientific Computing**
