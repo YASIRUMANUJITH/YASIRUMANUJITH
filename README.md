@@ -39,15 +39,6 @@
 <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="48" />&nbsp;
 <img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="48" />
 
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
 **AI / ML**
 <br/>
 <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" />
