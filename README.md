@@ -30,12 +30,14 @@
 **Data Science & Scientific Computing**
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" /><img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="48" /><img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="48" /><img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" /><img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="48" />
-
-**Languages**
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,cs" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" />&nbsp;
+<img src="https://skillicons.dev/icons?i=r" alt="R" width="48" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" alt="SQL" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" />&nbsp;
+<img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="48" />
 
 
 **Frontend**
@@ -52,5 +54,9 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" />
 <img src="https://img.shields.io/badge/RAG-black?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+
+**Development & Cloud Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 
 
