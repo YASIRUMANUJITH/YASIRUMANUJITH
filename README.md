@@ -1,20 +1,27 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Yasiru Manujith!
+I grew up in Homagama, near the Homagama Techno City, an emerging center for science, technology, research, and deep tech innovation ecosystem in Sri Lanka. Being exposed to this evolving ecosystem from an early age shaped my interest in technology, innovation, and the development of interconnected knowledge and startup ecosystems.
 
-📊 Data Science Undergraduate at **NSBM Green University**, affiliated with the **University of Plymouth**<br/>
+Currently, I specialize in **Data Science within the FinTech domain**, with a strong interest in **Capital Markets, Risk Management, Behavioral Finance, and Decision Science**, applying data-driven and analytical approaches to understand financial markets and build financial intelligence systems. I also have a growing interest in **Asset Management and Investment Analytics**, exploring how data and technology can support better investment decisions and portfolio strategies.
+
+
+📊 Data Science Undergraduate at **University of Plymouth**<br/>
 💹 Exploring **Data Science, FinTech, Financial Markets & Risk Analytics**<br/>
+🎯 **Domain Expertise:** **FinTech & Financial Policy**<br/>
 🤖 Building projects with **Python, R, Machine Learning & Data Analytics**<br/>
 🏠 Working on **Real Estate Analytics, Financial Analytics & Predictive Modeling**<br/>
-🚀 Interested in **AI, Deep Tech, Startups & Innovation Ecosystems**<br/>
+🚀 Contributing to **AI, Deep Tech, Startups & Innovation Ecosystems**<br/>
+
 
 # 🛠️ What I Build
 
-📊 Data Science & Machine Learning projects<br/>
-💳 Credit Risk & Fraud Detection solutions<br/>
-🏠 Real Estate & Market Analytics<br/>
-📈 Financial & Investment Analytics<br/>
-🤖 AI-driven Intelligence & Prediction Systems<br/>
+📊 **Data Science & Machine Learning** — building data-driven models and financial intelligence systems<br/>
+💳 **Credit Risk & Fraud Detection** — applying domain knowledge in financial risk, credit assessment and financial crime analytics<br/>
+🏠 **Real Estate & Market Analytics** — analyzing property markets, valuation, pricing and investment opportunities<br/>
+📈 **Financial & Investment Analytics** — applying data-driven approaches to capital markets, portfolio analysis and investment decision-making<br/>
+🛡️ **Financial Risk Intelligence** — exploring market, credit and emerging financial risks through analytical and predictive models<br/>
+💰 **Decision Science & Capital Allocation** — applying decision science to determine how capital should be allocated, which opportunities to pursue, and how to make better decisions under uncertainty
 
 # 💻 Tech Stack
 
