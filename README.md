@@ -7,7 +7,7 @@
 📊 ● Data Science Undergraduate at **University of Plymouth**<br/>
 💹 ● Applying Data Science, Behavioral Finance & Decision Science to Global Capital Markets, Real Estate & Investment Analytics<br/>
 🎯 ● Domain Expertise: **FinTech & Financial Policy**<br/>
-🏠 ● Working on **Real Estate Analytics, Financial Analytics & Predictive Modeling**<br/>
+🧠 ● Working on **Financial Intelligence, Real Estate Intelligence & Predictive Intelligence Systems**<br/>
 🚀 ● Contributing to **AI, Deep Tech, Startups & Innovation Ecosystems**<br/>
 
 
