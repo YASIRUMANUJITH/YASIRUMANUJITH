@@ -1,11 +1,9 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Yasiru Manujith!
-I grew up in Homagama, near the Homagama Techno City, an emerging center for science, technology, research, and deep tech innovation ecosystem in Sri Lanka. Being exposed to this evolving ecosystem from an early age shaped my interest in technology, innovation, and the development of interconnected knowledge and startup ecosystems.
-
-Currently, I specialize in **Data Science within the FinTech domain**, with a strong interest in **Capital Markets, Risk Management, Behavioral Finance, and Decision Science**, applying data-driven and analytical approaches to understand financial markets and build financial intelligence systems. I also have a growing interest in **Asset Management and Investment Analytics**, exploring how data and technology can support better investment decisions and portfolio strategies.
 
 
+👩🏻‍💻 I Grew up in Homagama Techno City, at the heart of Sri Lanka's science & technology ecosystem<br/>
 📊 Data Science Undergraduate at **University of Plymouth**<br/>
 💹 Exploring **Data Science, FinTech, Financial Markets & Risk Analytics**<br/>
 🎯 **Domain Expertise:** **FinTech & Financial Policy**<br/>
@@ -40,13 +38,6 @@ Currently, I specialize in **Data Science within the FinTech domain**, with a st
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
-# 🌏 Innovation Interests
-
-🔬 **Deep Tech & Emerging Technologies**<br/>
-🚀 **Startup & Innovation Ecosystems**<br/>
-💰 **Venture Capital & Investment**<br/>
-🏢 **Innovation Infrastructure**<br/>
-🌏 **Connecting Sri Lankan Innovation with Global Opportunities**<br/>
 
 # 📊 GitHub Stats
 
