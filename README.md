@@ -1,6 +1,10 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Yasiru Manujith!
+<p align="center">
+  <img src="./Assets/Cover Photo.png" alt="Yasiru Manujith" />
+
+</p>
 
 
 👩🏻‍💻 ● I Grew up in Homagama Techno City, at the heart of Sri Lanka's science & technology ecosystem<br/>
@@ -26,21 +30,14 @@
 **Data Science & Scientific Computing**
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" /><img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="48" /><img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="48" /><img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" /><img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="48" />
-
-**Languages**
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,r,mysql,cs" />
-
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" />&nbsp;
+<img src="https://skillicons.dev/icons?i=r" alt="R" width="48" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" alt="SQL" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/numpy" alt="NumPy" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/pandas" alt="Pandas" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" />&nbsp;
+<img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="48" />&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter" alt="Jupyter" width="48" />
 
 **AI / ML**
 <br/>
@@ -48,5 +45,9 @@
 <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" />
 <img src="https://img.shields.io/badge/RAG-black?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+
+**Development & Cloud Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
 
 
