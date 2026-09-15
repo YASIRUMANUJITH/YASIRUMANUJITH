@@ -1,10 +1,12 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Yasiru Manujith!
-<p align="center">
-  <img src="./Assets/Cover Photo.png" alt="Yasiru Manujith" />
 
+<p align="center">
+  <video src="Assets/Profile%20Intro.mp4" controls width="700"></video>
 </p>
+
+
 
 
 👩🏻‍💻 ● I Grew up in Homagama Techno City, at the heart of Sri Lanka's science & technology ecosystem<br/>
