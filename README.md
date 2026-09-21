@@ -1,10 +1,10 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Yasiru Manujith!
-
 <p align="center">
-  <video src="Assets/Profile%20Intro.mp4" controls width="700"></video>
+  <img src="./Assets/Profile Intro.gif" alt="Yasiru Manujith Profile Introduction" width="100%">
 </p>
+
 
 
 
